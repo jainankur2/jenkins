@@ -1,3 +1,3 @@
 #!/bin/bash
 rm -rf test
-echo "Directory removed"
+echo "Directory removed successfully"
